@@ -1,6 +1,6 @@
 # Arivu-Chatbot
 ## Overview
-Arivu is a chatbot application built using Streamlit and Google Generative AI. This allows to ask questions and receive helpful responses, with a well designed interface.
+Arivu is a chatbot application built using Streamlit and Google Generative AI. This allows users to ask questions and receive helpful responses, with a well designed interface.
 ## Features
 - Interactive chatbot interface
 - Natural language processing to understand user queries
